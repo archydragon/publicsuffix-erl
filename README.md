@@ -11,8 +11,8 @@ Inspired by [publicsuffix_erlang](https://github.com/sinkovsky/publicsuffix_erla
 Requirements
 ------------
 
-    * Erlang 17.0 or newer (should work on R16 too but hasn't been tested)
-    * GNU make
+* Erlang 17.0 or newer (should work on R16 too but hasn't been tested)
+* GNU make
 
 
 Installation
@@ -47,8 +47,8 @@ Eshell V6.3  (abort with ^G)
 TODO
 ----
 
-    1. Rebar support.
-    2. Punycode support.
+1. Rebar support.
+2. Punycode support.
 
 
 License
