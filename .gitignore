@@ -1,0 +1,4 @@
+*.beam
+erl_crash.dump
+publicsuffix.dat
+src/tld.erl
